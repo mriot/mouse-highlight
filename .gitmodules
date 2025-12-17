@@ -1,0 +1,9 @@
+[submodule "third-party/mumble"]
+	path = third-party/mumble
+	url = https://github.com/RaidcoreGG/RCGG-lib-mumble-api.git
+[submodule "third-party/nexus"]
+	path = third-party/nexus
+	url = https://github.com/RaidcoreGG/RCGG-lib-nexus-api.git
+[submodule "third-party/imgui"]
+	path = third-party/imgui
+	url = git@github.com:RaidcoreGG/imgui.git
