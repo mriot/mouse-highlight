@@ -1,0 +1,8 @@
+BasedOnStyle: Microsoft
+NamespaceIndentation: All
+AlignConsecutiveMacros: Consecutive
+AlignConsecutiveAssignments: Consecutive
+ColumnLimit: 0
+InsertNewlineAtEOF: true
+KeepEmptyLinesAtEOF: true
+AllowShortFunctionsOnASingleLine: All
